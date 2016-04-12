@@ -41,4 +41,3 @@ The ability to be able to calculate your net income for per paycheck,monthly, an
 User Stories
 ============
 As Lia the Graphic Desinger, I want to be able to calculate my net income from my salary in order to plan my financial year ahead and make milestone purchases and investments.
-
