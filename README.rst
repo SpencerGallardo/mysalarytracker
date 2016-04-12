@@ -1,4 +1,3 @@
-==================
 MySalaryTracker
 ==================
 MySalaryTracker is a program that helps freelancers and employees in a company to help keep track and calculate their income.
@@ -25,7 +24,7 @@ Problem Scenario
 ================
 
 Overspending and missing financial goals
-----------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Lia realizes she needs been overestimating her net income and his been overspending on her credit card and checking account. Her overall assests have dropped due to poor calculation.
 She realizes she needs to plans her finances based on her fluctuating freelance checks this year in order to stay on track to make her fufuil her dreams of buying a house, business, or traveling.
