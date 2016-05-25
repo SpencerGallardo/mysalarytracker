@@ -69,6 +69,33 @@ I need to know how much I will have left to spend on other expenses and savings
   
 Lia: I have $3,975 for the rest of the month in order to spend on other expenses and savings for this month.
 
+Scenario 03:
+^^^^^^^^^^^
+
+Lia: I have 2 offers in two differente cities. The first company pays $35 an hour with a 30% tax rate and second company pays $30 an hour with a 20% tax rate. I would be working for 8 hours each day. Which should I choose? I will do the calculation on my daily pay and decide.
+
+Company 1
+.. ::
+  Do you want to input Monthly or Hourly? Hourly
+  What is your hourly rate? 35
+  How many hours did you work? 8
+  What deductions are you charged? (For example: $1 + 20%) 30%
+  Gross income: 280.0
+  Net income: 196.0
+  Total deductions: 84.0
+  
+  Company 2
+.. ::
+  Do you want to input Monthly or Hourly? Hourly
+  What is your hourly rate? 30
+  How many hours did you work? 8
+  What deductions are you charged? (For example: $1 + 20%) 20%
+  Gross income: 240.0
+  Net income: 192.0
+  Total deductions: 48.0
+
+Although, it's very similar, maybe I will follow up with the first company's city. Although the first company has a higher deduction, the higher pay gives me a slightly higher return on net income. After a few days, that daily difference may add up.
+
 **************
 INSTRUCTIONS
 **************
