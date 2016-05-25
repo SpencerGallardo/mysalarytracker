@@ -74,8 +74,11 @@ What is your hourly rate? or What is your gross income?
  
 What deductions are you charged? (For example: $1 + 20%)
 
-Results:
-Gross income: Entire sum of pay
-Net income: Actual pay from check after deductions
-Total deductions: Total sum of deductions
-How many hours did you work? or
+Results
+^^^^^^^
+
+Gross income - Entire sum of pay
+
+Net income - Actual pay from check after deductions
+
+Total deductions - Total sum of deductions
