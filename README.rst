@@ -54,3 +54,28 @@ Lia: I just worked on a one day project working for menu redesign for about 10 h
   Net income: 179.0
   Total deductions: 21.0
 
+**************
+INSTRUCTIONS
+**************
+
+1. Installation
+================
+
+Download the module and execute the script. No extras are required to run it succesfully.
+
+2. Executing mysalarytracker.py
+=======================
+
+Running the program will prompt you to several questions to easily calculate your net income.
+
+Do you want to input Monthly or Hourly?
+
+What is your hourly rate? or What is your gross income?
+ 
+What deductions are you charged? (For example: $1 + 20%)
+
+Results:
+Gross income: Entire sum of pay
+Net income: Actual pay from check after deductions
+Total deductions: Total sum of deductions
+How many hours did you work? or
