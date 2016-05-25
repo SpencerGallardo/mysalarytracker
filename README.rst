@@ -1,6 +1,6 @@
 MySalaryTracker
 ==================
-MySalaryTracker is a program that helps freelancers and employees in a company to help keep track and calculate their income.
+MySalaryTracker is a program that helps freelancers and employees in a company to help keep track and calculate their net income.
 
 Personas
 ========
@@ -40,3 +40,17 @@ The ability to be able to calculate your net income for per paycheck,monthly, an
 User Stories
 ============
 As Lia the Graphic Desinger, I want to be able to calculate my net income from my salary in order to plan my financial year ahead and make milestone purchases and investments.
+
+Scenario 01:
+^^^^^^^^^^^
+
+Lia: I just worked on a one day project working for menu redesign for about 10 hours and I billed at $20 an hour for this small business. I should probably deduct the current taxes in this state and deduct $5 for expenses from my overall paycheck. I'll calculcate my net income and how much I can save.
+.. ::
+Do you want to input Monthly or Hourly? Hourly
+What is your hourly rate? 20
+How many hours did you work? 10
+What deductions are you charged? (For example: $1 + 20%) $5 + 8%
+Gross income: 200.0
+Net income: 179.0
+Total deductions: 21.0
+.. ::
