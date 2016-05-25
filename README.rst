@@ -54,6 +54,21 @@ Lia: I just worked on a one day project working for menu redesign for about 10 h
   Net income: 179.0
   Total deductions: 21.0
 
+Scenario 02:
+^^^^^^^^^^^
+
+Lia: I have a long term project that will pay me $5,000 for the month. Rent is due for $1,025 at the end of the month.
+I need to know how much I will have left to spend on other expenses and savings
+.. ::
+  Do you want to input Monthly or Hourly? Monthly
+  What is your gross income? 5000
+  What deductions are you charged? (For example: $1 + 20%) $1025
+  Gross income: 5000.0
+  Net income: 3975.0
+  Total deductions: 1025.0
+  
+Lia: I have $3,975 for the rest of the month in order to spend on other expenses and savings for this month.
+
 **************
 INSTRUCTIONS
 **************
