@@ -84,7 +84,7 @@ Company 1
   Net income: 196.0
   Total deductions: 84.0
   
-  Company 2
+Company 2
 .. ::
   Do you want to input Monthly or Hourly? Hourly
   What is your hourly rate? 30
@@ -94,7 +94,8 @@ Company 1
   Net income: 192.0
   Total deductions: 48.0
 
-Although, it's very similar, maybe I will follow up with the first company's city. Although the first company has a higher deduction, the higher pay gives me a slightly higher return on net income. After a few days, that daily difference may add up.
+
+Although, it's very similar, maybe I will follow up with the first company's hourly offer. Although the first company has a higher deduction, the higher pay gives me a slightly higher return on net income. After a few days, that daily difference may add up.
 
 **************
 INSTRUCTIONS
